@@ -22,7 +22,7 @@ EfficientAD: https://arxiv.org/pdf/2303.14535
 
 
 
-## Confronto velocit`a media di inferenza per Dataset e Modello
+## Confronto velocità media di inferenza per Dataset e Modello
 
 |          | **Time/Image (s) ↓** | **Throughput (img/s) ↑** | **Total Time (s) ↓** | **Images** |
 |-----------------|----------------------|--------------------------|----------------------|------------|
